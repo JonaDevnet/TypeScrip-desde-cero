@@ -1,0 +1,4 @@
+los módulos permiten organizar y reutilizar código al dividirlo en archivos separados. 
+Al usar export e import, podemos compartir funciones, clases, interfaces, tipos y variables entre diferentes archivos. 
+Además, TypeScript soporta la exportación por defecto (default) y los ES Modules (módulos de ECMAScript) para importar y 
+exportar de manera más estructurada.
